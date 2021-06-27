@@ -1,0 +1,11 @@
+{ 
+"manifest_version": 2,
+"name": "Facebook pages",
+"version": "1.0",
+"description":"Share ",
+"browser_action":{
+   "default_popup": "popup.html"
+},
+"permissions":["activeTab"]
+
+}
